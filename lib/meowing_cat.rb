@@ -1,4 +1,4 @@
 ## code your solution here.
 class Cat
-  name = Cat.new 
+  attr_accessor :name 
 end
