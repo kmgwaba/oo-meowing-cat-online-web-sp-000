@@ -2,5 +2,5 @@
 class Cat
   attr_accessor :name
   name = Cat.new
-  name.meow 
+  
 end
