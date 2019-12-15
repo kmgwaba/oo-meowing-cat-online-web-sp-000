@@ -1,5 +1,6 @@
 ## code your solution here.
 class Cat
   attr_accessor :name
-  :name.meow
+  name = Cat.new
+  name.meow 
 end
